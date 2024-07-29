@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 // Uma macro para mandar uma mensagem na tela e, depois de limpar o buffer do teclado, pausar a tela
 #define PAUSAR(...) \
 printf(__VA_ARGS__); \
