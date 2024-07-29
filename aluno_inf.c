@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 
 
 // Uma macro para mandar uma mensagem na tela e, depois de limpar o buffer do teclado, pausar a tela
